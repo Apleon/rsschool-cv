@@ -1,6 +1,8 @@
 # MY CV
-Name: Andrew. 
-Surname: Sharapov.
+**Initials**
+
+* Name: Andrew
+* Surname: Sharapov
 ***
 **CONTACTS**
 
