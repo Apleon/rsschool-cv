@@ -28,7 +28,8 @@ Hello my name is Andrew. I'm from Belarus, Minsk. Study at College Business and 
 
 >**Ruby**. Regex validate PIN code 7kyu
 
-<def validate_pin(pin)
+'''
+def validate_pin(pin)
   if pin.length == 4 && pin =~ /^[0-9] * $/
     true
   elsif pin.length == 6 && pin =~ /^[0-9] * $/
@@ -38,7 +39,8 @@ Hello my name is Andrew. I'm from Belarus, Minsk. Study at College Business and 
   else 
     false
   end
-end>
+end
+'''
 
 >**Ruby**. Basic Mathematical Operations 8kyu
 
