@@ -1,7 +1,7 @@
 # MY CV
 **INITIALS**
 
-![photo of me](https://postimg.cc/0zRQ5RNW)
+![photo of me](https://i.postimg.cc/qvgCLpHT/IMG-1996.jpg)
 * Name: Andrew
 * Surname: Sharapov
 ***
