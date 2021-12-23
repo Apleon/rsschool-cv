@@ -16,3 +16,12 @@
 **ABOUT**
 
 Hello my name is Andrew. I'm from Belarus, Minsk. Study at College Business and Law at the Faculty of Information Technology Software. My strengths: **communication**, **perseverance**, **proficiency in English at level B1**. I want to become a Full Stack developer.
+***
+**SKILLS**
+
+* Programming languages: **Ruby**, **C++**, **Python**
+* Development methodologies: **Spiral Model**, **Waterfall Model**
+* Version control systems: **Github**
+* Development tools: **Vscode**, **Xcode**, **Terminal**, **Sublime Text**
+
+    
