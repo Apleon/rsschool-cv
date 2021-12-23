@@ -23,5 +23,33 @@ Hello my name is Andrew. I'm from Belarus, Minsk. Study at College Business and 
 * Development methodologies: **Spiral Model**, **Waterfall Model**
 * Version control systems: **Github**
 * Development tools: **Vscode**, **Xcode**, **Terminal**, **Sublime Text**
+***
+**CODE EXAMPLES**
 
-    
+>**Ruby**. Regex validate PIN code 7kyu
+
+<def validate_pin(pin)
+  if pin.length == 4 && pin =~ /^[0-9] * $/
+    true
+  elsif pin.length == 6 && pin =~ /^[0-9] * $/
+    true
+  elsif pin =~ /^[a-z] * $/ || pin.empty
+    false
+  else 
+    false
+  end
+end>
+
+>**Ruby**. Basic Mathematical Operations 8kyu
+
+<def basic_op(operator, value1, value2)
+  if operator == '+'
+    value1 + value2
+  elsif operator == '-'
+    value1 - value2
+  elsif operator == '*'
+    value1 * value2
+  elsif operator == '/'
+    value1 / value2
+  end
+end>
