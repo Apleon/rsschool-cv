@@ -1,7 +1,7 @@
 # MY CV
 **INITIALS**
 
-![photo of me](https://i.postimg.cc/nhQhrrtC/IMG-1996.jpg)
+![photo of me](https://i.postimg.cc/zDRMV0wj/u276k-Qw-EXW4.png)
 
 * Name: Andrew
 * Surname: Sharapov
@@ -19,13 +19,12 @@
 ***
 **ABOUT**
 
-Hello my name is Andrew. I'm from Belarus, Minsk. Study at College Business and Law at the Faculty of Information Technology Software. My strengths: **communication**, **perseverance**. I want to become a Full Stack developer in a bundle of ruby + javascript.
+Hello my name is Andrew. I'm from Belarus, Minsk. Study at College Business and Law at the Faculty of Information Technology Software. My strengths: **communication**, **perseverance**. I want to become a Full Stack developer in a bundle of **Ruby** + **JavaScript**.
 
 ***
 **SKILLS**
 
 * Programming languages: **C++**, **Ruby**, **Python**
-* Development methodologies: **Spiral Model**, **Waterfall Model**
 * Version control systems: **Github**
 * Development tools: **Vscode**
 
