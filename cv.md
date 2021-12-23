@@ -57,3 +57,9 @@ def basic_op(operator, value1, value2)
   end
 end
 ```
+***
+**EDUCATION**
+
+* **Incomplete secondary special education** in the specialty (ITS - Information Technology Software)
+* **HTML for beginners** (Code basics)
+* **CSS for beginners** (Code basics)
