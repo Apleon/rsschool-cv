@@ -2,6 +2,7 @@
 **INITIALS**
 
 ![photo of me](https://i.postimg.cc/nhQhrrtC/IMG-1996.jpg)
+
 * Name: Andrew
 * Surname: Sharapov
 
@@ -14,18 +15,19 @@
 * Phone: +375295078802
 * Telegram: [@sharapov2360](https://t.me/sharapov2360)
 * Discord(rs school): Andrew Sharapov(@apleon)
+
 ***
 **ABOUT**
 
-Hello my name is Andrew. I'm from Belarus, Minsk. Study at College Business and Law at the Faculty of Information Technology Software. My strengths: **communication**, **perseverance**. I want to become a Full Stack developer.
+Hello my name is Andrew. I'm from Belarus, Minsk. Study at College Business and Law at the Faculty of Information Technology Software. My strengths: **communication**, **perseverance**. I want to become a Full Stack developer in a bundle of ruby + javascript.
 
 ***
 **SKILLS**
 
-* Programming languages: **Ruby**, **C++**, **Python**
+* Programming languages: **C++**, **Ruby**, **Python**
 * Development methodologies: **Spiral Model**, **Waterfall Model**
 * Version control systems: **Github**
-* Development tools: **Vscode**, **Xcode**, **Terminal**, **Sublime Text**
+* Development tools: **Vscode**
 
 ***
 **CODE EXAMPLES**
