@@ -74,4 +74,4 @@ end
 **ENGLISH LANGUAGE**
 
 * Ownership at level **B1**
-* **Practice with native speakers for 4 months**(***2 hours a day***)
+* **Practice with native speakers for 4 months** (***2 hours a day***)
