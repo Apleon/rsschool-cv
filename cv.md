@@ -1,7 +1,7 @@
 # MY CV
 **INITIALS**
 
-![photo of me](https://avatars.githubusercontent.com/u/75485447?s=400&u=31df8beada3f474bc6163c1bc16ff34cc3da8901&v=4)
+![photo of me](/Users/sharapov/Documents/Family\ photos/Photo\ /IMG_1996.png)
 * Name: Andrew
 * Surname: Sharapov
 ***
