@@ -1,6 +1,7 @@
 # MY CV
 **INITIALS**
 
+![photo of me](https://avatars.githubusercontent.com/u/75485447?s=400&u=31df8beada3f474bc6163c1bc16ff34cc3da8901&v=4)
 * Name: Andrew
 * Surname: Sharapov
 ***
@@ -57,6 +58,12 @@ def basic_op(operator, value1, value2)
   end
 end
 ```
+***
+**WORK EXPERIENCE**
+
+* There is no work experience in IT
+* Educational project: [My CV](https://github.com/Apleon/rsschool-cv/blob/gh-pages/cv.md)
+
 ***
 **EDUCATION**
 
