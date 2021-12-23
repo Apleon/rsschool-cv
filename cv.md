@@ -15,7 +15,7 @@
 ***
 **ABOUT**
 
-Hello my name is Andrew. I'm from Belarus, Minsk. Study at College Business and Law at the Faculty of Information Technology Software. My strengths: **communication**, **perseverance**, **proficiency in English at level B1**. I want to become a Full Stack developer.
+Hello my name is Andrew. I'm from Belarus, Minsk. Study at College Business and Law at the Faculty of Information Technology Software. My strengths: **communication**, **perseverance**. I want to become a Full Stack developer.
 ***
 **SKILLS**
 
@@ -60,6 +60,11 @@ end
 ***
 **EDUCATION**
 
-* **Incomplete secondary special education** in the specialty (ITS - Information Technology Software)
-* **HTML for beginners** (Code basics)
-* **CSS for beginners** (Code basics)
+* **Incomplete secondary special education** in the specialty (***ITS - Information Technology Software***)
+* **HTML for beginners** (***Code basics***)
+* **CSS for beginners** (***Code basics***)
+***
+**ENGLISH LANGUAGE**
+
+* Ownership at level **B1**
+* **Practice with native speakers for 4 months**(***2 hours a day***)
