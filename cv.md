@@ -4,6 +4,7 @@
 ![photo of me](https://i.postimg.cc/nhQhrrtC/IMG-1996.jpg)
 * Name: Andrew
 * Surname: Sharapov
+
 ***
 **CONTACTS**
 
@@ -17,6 +18,7 @@
 **ABOUT**
 
 Hello my name is Andrew. I'm from Belarus, Minsk. Study at College Business and Law at the Faculty of Information Technology Software. My strengths: **communication**, **perseverance**. I want to become a Full Stack developer.
+
 ***
 **SKILLS**
 
@@ -24,6 +26,7 @@ Hello my name is Andrew. I'm from Belarus, Minsk. Study at College Business and 
 * Development methodologies: **Spiral Model**, **Waterfall Model**
 * Version control systems: **Github**
 * Development tools: **Vscode**, **Xcode**, **Terminal**, **Sublime Text**
+
 ***
 **CODE EXAMPLES**
 
@@ -70,6 +73,7 @@ end
 * **Incomplete secondary special education** in the specialty (***ITS - Information Technology Software***)
 * **HTML for beginners** (***Code basics***)
 * **CSS for beginners** (***Code basics***)
+
 ***
 **ENGLISH LANGUAGE**
 
