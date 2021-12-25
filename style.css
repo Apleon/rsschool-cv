@@ -1,3 +1,8 @@
-hr{
+body{
+  background-image: url('https://i.postimg.cc/DwxyL0Y3/geometric-leaves.png');
   color: black;
+}
+
+hr{
+  color: rgb(0, 0, 0);
 }
