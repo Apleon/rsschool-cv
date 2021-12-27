@@ -1,8 +1,48 @@
-body{
-  background-image: url('https://i.postimg.cc/DwxyL0Y3/geometric-leaves.png');
-  color: black;
-}
 
 hr{
   color: rgb(0, 0, 0);
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.nav-item {
+  float:left; 
+  margin-right: 50px; 
+  list-style-type: none; 
+}
+
+.nav-link {
+  color: white; 
+}
+
+.contact-list {  
+  text-align: left;
+  list-style-type: none;
+  
+}
+
+.image {
+  margin-right: 68px;
+  margin-top: 5%;
+  text-align: right;
+}
+
+.name-surname {
+  margin-top: 12%;
+}
+
+.icons {
+  margin-right: 5px;
+}
+
+.list-item {
+  color:black;
+  text-decoration: none;
+}
+
+.col-3 {
+  outline: 2px black;
 }
