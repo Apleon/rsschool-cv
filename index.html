@@ -146,6 +146,39 @@
                 
             </div>  
         </section>
+        <section class="code-section section">
+          <h2 class="section-title"><i class="fa fa-code"></i>Code Examples</h2>
+          <p>Ruby. Regex validate PIN code 7kyu</p>
+          <p><code>
+              def validate_pin(pin)<Br>
+              &nbspif pin.length == 4 && pin =~ /^[0-9] * $/<Br>
+                  &nbsp&nbsptrue<Br>
+                  &nbspelsif pin.length == 6 && pin =~ /^[0-9] * $/<Br>
+                      &nbsp&nbsptrue<Br>
+                      &nbspelsif pin =~ /^[a-z] * $/ || pin.empty<Br>
+                          &nbsp&nbspfalse<Br>
+                          &nbspelse<Br>
+                              &nbsp&nbspfalse<Br>
+                              &nbspend<Br>
+              end
+          </code></p>
+          <p>Ruby. Basic Mathematical Operations 8kyu</p>
+          <p><code>
+              def basic_op(operator, value1, value2)<Br>
+              &nbspif operator == '+'<Br>
+                  &nbsp&nbspvalue1 + value2<Br>
+                  &nbspelsif operator == '-'<Br>
+                      &nbsp&nbspvalue1 - value2<Br>
+                      &nbspelsif operator == '*'<Br>
+                          &nbsp&nbspvalue1 * value2<Br>
+                          &nbspelsif operator == '/'<Br>
+                          &nbsp&nbspvalue1 / value2<Br>
+                              &nbspend<Br>
+              end
+          </code></p>
+      </section>
+    </div>
+  </div>
   <script type="text/javascript" src="assets/plugins/jquery-1.11.3.min.js"></script>
   <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>    
   <script type="text/javascript" src="assets/js/main.js"></script>            
