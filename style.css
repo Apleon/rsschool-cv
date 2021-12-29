@@ -214,6 +214,30 @@ p {
   margin-bottom: 30px;
 }
 
+.email {
+  margin-left: 5px;
+}
+
+.phone {
+  margin-left: 5px;
+}
+
+.linkedin {
+  margin-left: 5px;
+}
+
+.telegram {
+  margin-left: 5px;
+}
+
+code {
+  padding: 2px 4px;
+  font-size: 90%;
+  color: #000000;
+  background-color: #f9f2f4;
+  border-radius: 4px;
+}
+
 .main-wrapper .upper-row {
   position: relative;
   overflow: hidden;
