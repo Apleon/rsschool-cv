@@ -214,19 +214,7 @@ p {
   margin-bottom: 30px;
 }
 
-.email {
-  margin-left: 5px;
-}
-
-.phone {
-  margin-left: 5px;
-}
-
-.linkedin {
-  margin-left: 5px;
-}
-
-.telegram {
+.mass-media{
   margin-left: 5px;
 }
 
@@ -300,19 +288,34 @@ code {
   background: #6c92a3;
 }
 
-.footer {
-  padding: 30px;
-  padding-top: 60px;
+.mb-4{
+  max-width: 960px;
+  text-align:center;
 }
 
-.footer .copyright {
-  line-height: 1.6;
-  color: #545E6C;
-  font-size: 13px;
+
+footer{
+  background: rgba(230, 230, 206, 0.699);
+  max-width: 960px;
+  margin: 0 auto;
+  -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.footer .fa-heart {
-  color: #fb866a;
+.footer-text-color{
+  color: #f5f5f5;
+}
+.github-image{
+  height: 100px;
+  width: 200px;
+  float: left;
+}
+
+.rs-image {
+  height: 100px;
+  width: 200px;
+  float: right;
 }
 
 /* Extra small devices (phones, less than 768px) */
@@ -332,6 +335,9 @@ code {
   .main-wrapper .upper-row {
     margin-bottom: 0;
   }
+  .mb-4{
+    text-align:auto;
+  }
 }
 
 /* Small devices (tablets, 768px and up) */
@@ -349,6 +355,9 @@ code {
     float: left;
     position: relative;
     top: 1px;
+  }
+  .mb-4{
+    text-align:auto;
   }
 }
 /* Large devices (large desktops, 1200px and up) */
