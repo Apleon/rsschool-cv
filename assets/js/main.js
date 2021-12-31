@@ -7,12 +7,12 @@ jQuery(document).ready(function($) {
     $('.level-bar-inner').css('width', '0');
     
     $(window).on('load', function() {
-
-        $('.level-bar-inner').each(function() {
+        hljs?.highlightAll()
+        $('.level-bar-inner').each((element) => {
         
-            var itemWidth = $(this).data('level');
+            let itemWidth = $(element).data('level');
             
-            $(this).animate({
+            $(element).animate({
                 width: itemWidth
             }, 800);
             
