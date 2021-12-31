@@ -13,6 +13,7 @@
     <link href='https://fonts.googleapis.com/css?family=Roboto:400,500,400italic,300italic,300,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
     <link id="theme-style" rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.3.1/styles/github-dark.min.css">
 </head> 
 <body>
     <div class="wrapper">
@@ -30,6 +31,7 @@
                         <li><i class="fas fa-phone"></i><a class="mass-media" href="tel:+375295078802">+375295078802</a></li>
                         <li><i class="fab fa-linkedin"></i><a class="mass-media" href="https://www.linkedin.com/in/andrew-sharapov-a05aa3225" target="_blank">Andrew Sharapov</a></li>
                         <li><i class="fab fa-telegram"></i><a class="mass-media" href="https://t.me/sharapov2360" target="_blank">sharapov2360</a></li>
+                        <li><i class="fab fa-discord"></i><a class="mass-media"></a>Andrew.#1139</li>
                     </ul>
                 </div>
                 <div class="education-container container-block">
@@ -63,7 +65,7 @@
         <main>
             <div class="main-wrapper">
                 <section class="section summary-section">
-                    <h2 class="section-title"><i class="fa fa-user"></i>About</h2>
+                    <h2 class="section-title"><i class="fa fa-user"></i>About Me</h2>
                     <div class="summary">
                         <p>Hello my name is Andrew. I'm from Belarus, Minsk.
                             Study at College Business and Law at the Faculty of Information Technology Software. 
@@ -149,34 +151,35 @@
                 </section>
                 <section class="code-section section">
                     <h2 class="section-title"><i class="fa fa-code"></i>Code Examples</h2>
-                    <p>Ruby. Regex validate PIN code 7kyu</p>
-                    <p><code>
-                        def validate_pin(pin)<Br>
-                        &nbspif pin.length == 4 && pin =~ /^[0-9] * $/<Br>
-                            &nbsp&nbsptrue<Br>
-                            &nbspelsif pin.length == 6 && pin =~ /^[0-9] * $/<Br>
-                                &nbsp&nbsptrue<Br>
-                                &nbspelsif pin =~ /^[a-z] * $/ || pin.empty<Br>
-                                    &nbsp&nbspfalse<Br>
-                                    &nbspelse<Br>
-                                        &nbsp&nbspfalse<Br>
-                                        &nbspend<Br>
-                        end
-                    </code></p>
-                    <p>Ruby. Basic Mathematical Operations 8kyu</p>
-                    <p><code>
-                        def basic_op(operator, value1, value2)<Br>
-                        &nbspif operator == '+'<Br>
-                            &nbsp&nbspvalue1 + value2<Br>
-                            &nbspelsif operator == '-'<Br>
-                                &nbsp&nbspvalue1 - value2<Br>
-                                &nbspelsif operator == '*'<Br>
-                                    &nbsp&nbspvalue1 * value2<Br>
-                                    &nbspelsif operator == '/'<Br>
-                                    &nbsp&nbspvalue1 / value2<Br>
-                                        &nbspend<Br>
-                        end
-                    </code></p>
+                    <h4>Ruby. Regex validate PIN code 7kyu</h4>
+                    <pre><code class="language-ruby">
+def validate_pin(pin)
+  if pin.length == 4 && pin =~ /^[0-9]*$/
+    true
+  elsif pin.length == 6 && pin =~ /^[0-9]*$/
+    true
+  elsif pin =~ /^[a-z]*$/ || pin.length == 0
+    false
+  else 
+    false
+  end
+end
+                    </code></pre>
+                    <br>
+                    <h4>Ruby. Basic Mathematical Operations 8kyu</h4>
+                    <pre><code class="language-ruby">
+def basic_op(operator, value_1, value_2)
+  if operator == "+"
+    value_1 + value_2
+  elsif operator == "-"
+    value_1 - value_2
+  elsif operator == "*"
+    value_1 * value_2
+  elsif operator == "/"
+    value_1 / value_2
+  end
+end
+                    </code></pre>
                 </section>
             </div>
         </main>
@@ -199,7 +202,9 @@
             <p class="footer-text-color">© 2022 Copyright: Sharapov.A.V</p>
         </div>
     </footer>
-   
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.3.1/highlight.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.3.1/languages/ruby.min.js"></script>
+  <script>hljs.highlightAll();</script>
   <script src="assets/plugins/jquery-1.11.3.min.js"></script>
   <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>    
   <script src="assets/js/main.js"></script>            
