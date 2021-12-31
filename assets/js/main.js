@@ -5,14 +5,14 @@ jQuery(document).ready(function($) {
     
     
     $('.level-bar-inner').css('width', '0');
-    
+
     $(window).on('load', function() {
-        hljs?.highlightAll()
-        $('.level-bar-inner').each((element) => {
-        
-            let itemWidth = $(element).data('level');
-            
-            $(element).animate({
+
+        $('.level-bar-inner').each(function() {
+
+            var itemWidth = $(this).data('level');
+
+            $(this).animate({
                 width: itemWidth
             }, 800);
             
